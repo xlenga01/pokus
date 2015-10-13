@@ -1,1 +1,2 @@
 Prvni slozka
+Pridavam dalsi vetu (no proste pro commit)
